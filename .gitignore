@@ -1,3 +1,4 @@
 # Исключить каталог pycache
 **/firstsite/main/__pycache__/
 **/firstsite/firstsite/__pycache__/
+**/firstsite/main/migrations/__pycache__/
